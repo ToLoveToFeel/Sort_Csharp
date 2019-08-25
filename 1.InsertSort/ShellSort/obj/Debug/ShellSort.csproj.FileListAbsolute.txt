@@ -1,0 +1,6 @@
+C:\Code\C#\Sort\Sort\1.InsertSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Code\C#\Sort\Sort\1.InsertSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Code\C#\Sort\Sort\1.InsertSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Code\C#\Sort\Sort\1.InsertSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\1.InsertSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Code\C#\Sort\Sort\1.InsertSort\ShellSort\obj\Debug\ShellSort.pdb

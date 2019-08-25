@@ -1,0 +1,7 @@
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\bin\Debug\BinaryInsertSort.exe.config
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\bin\Debug\BinaryInsertSort.exe
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\bin\Debug\BinaryInsertSort.pdb
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\obj\Debug\BinaryInsertSort.csprojAssemblyReference.cache
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\obj\Debug\BinaryInsertSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\obj\Debug\BinaryInsertSort.exe
+C:\Code\C#\Sort\Sort\1.InsertSort\BinaryInsertSort\obj\Debug\BinaryInsertSort.pdb

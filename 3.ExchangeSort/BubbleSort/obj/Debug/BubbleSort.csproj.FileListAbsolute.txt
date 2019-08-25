@@ -1,0 +1,6 @@
+C:\Code\C#\Sort\Sort\3.ExchangeSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\3.ExchangeSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Code\C#\Sort\Sort\3.ExchangeSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Code\C#\Sort\Sort\3.ExchangeSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Code\C#\Sort\Sort\3.ExchangeSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Code\C#\Sort\Sort\3.ExchangeSort\BubbleSort\obj\Debug\BubbleSort.pdb

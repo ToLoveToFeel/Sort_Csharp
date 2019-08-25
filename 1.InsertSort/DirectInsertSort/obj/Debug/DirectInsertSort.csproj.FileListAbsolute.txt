@@ -1,0 +1,7 @@
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\bin\Debug\DirectInsertSort.exe.config
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\bin\Debug\DirectInsertSort.exe
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\bin\Debug\DirectInsertSort.pdb
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\obj\Debug\DirectInsertSort.csprojAssemblyReference.cache
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\obj\Debug\DirectInsertSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\obj\Debug\DirectInsertSort.exe
+C:\Code\C#\Sort\Sort\1.InsertSort\DirectInsertSort\obj\Debug\DirectInsertSort.pdb

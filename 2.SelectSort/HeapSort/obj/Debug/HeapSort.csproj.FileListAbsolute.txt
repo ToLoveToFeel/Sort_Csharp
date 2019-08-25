@@ -1,0 +1,6 @@
+C:\Code\C#\Sort\Sort\2.SelectSort\HeapSort\bin\Debug\HeapSort.exe.config
+C:\Code\C#\Sort\Sort\2.SelectSort\HeapSort\bin\Debug\HeapSort.exe
+C:\Code\C#\Sort\Sort\2.SelectSort\HeapSort\bin\Debug\HeapSort.pdb
+C:\Code\C#\Sort\Sort\2.SelectSort\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\2.SelectSort\HeapSort\obj\Debug\HeapSort.exe
+C:\Code\C#\Sort\Sort\2.SelectSort\HeapSort\obj\Debug\HeapSort.pdb

@@ -1,0 +1,6 @@
+C:\Code\C#\Sort\Sort\3.ExchangeSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Code\C#\Sort\Sort\3.ExchangeSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Code\C#\Sort\Sort\3.ExchangeSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Code\C#\Sort\Sort\3.ExchangeSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\3.ExchangeSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Code\C#\Sort\Sort\3.ExchangeSort\QuickSort\obj\Debug\QuickSort.pdb

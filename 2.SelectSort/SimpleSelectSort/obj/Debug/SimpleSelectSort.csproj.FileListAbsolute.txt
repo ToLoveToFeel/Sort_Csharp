@@ -1,0 +1,6 @@
+C:\Code\C#\Sort\Sort\2.SelectSort\SimpleSelectSort\bin\Debug\SimpleSelectSort.exe.config
+C:\Code\C#\Sort\Sort\2.SelectSort\SimpleSelectSort\bin\Debug\SimpleSelectSort.exe
+C:\Code\C#\Sort\Sort\2.SelectSort\SimpleSelectSort\bin\Debug\SimpleSelectSort.pdb
+C:\Code\C#\Sort\Sort\2.SelectSort\SimpleSelectSort\obj\Debug\SimpleSelectSort.csproj.CoreCompileInputs.cache
+C:\Code\C#\Sort\Sort\2.SelectSort\SimpleSelectSort\obj\Debug\SimpleSelectSort.exe
+C:\Code\C#\Sort\Sort\2.SelectSort\SimpleSelectSort\obj\Debug\SimpleSelectSort.pdb
