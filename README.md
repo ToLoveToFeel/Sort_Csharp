@@ -39,5 +39,11 @@
 1. git clone https://github.com/i-love-linux/Sort_Csharp.git 克隆代码到本地
 2. 打开过程如下：(VS2019)
 
-![img]()
+![img](https://github.com/i-love-linux/Sort_Csharp/blob/master/image/1.png)
+
+![img](https://github.com/i-love-linux/Sort_Csharp/blob/master/image/2.png)
+
+![img](https://github.com/i-love-linux/Sort_Csharp/blob/master/image/3.png)
+
+![img](https://github.com/i-love-linux/Sort_Csharp/blob/master/image/4.png)
 
